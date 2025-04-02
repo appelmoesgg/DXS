@@ -1,3 +1,6 @@
+> [!WARNING]
+> Patched now! Don't use, you will just get kicked when you try to load in a game...
+
 # DXS
 
 DXS is an open source hex swapper for Fortnite<br>
